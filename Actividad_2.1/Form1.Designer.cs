@@ -42,6 +42,7 @@ namespace Actividad_2._1
             // 
             // comboCursos
             // 
+            this.comboCursos.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboCursos.FormattingEnabled = true;
             this.comboCursos.Location = new System.Drawing.Point(33, 87);
             this.comboCursos.Name = "comboCursos";
