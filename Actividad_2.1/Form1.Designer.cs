@@ -55,6 +55,7 @@ namespace Actividad_2._1
             this.gridAlumnos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.gridAlumnos.Location = new System.Drawing.Point(446, 100);
             this.gridAlumnos.Name = "gridAlumnos";
+            this.gridAlumnos.ReadOnly = true;
             this.gridAlumnos.Size = new System.Drawing.Size(240, 150);
             this.gridAlumnos.TabIndex = 1;
             // 
@@ -63,6 +64,7 @@ namespace Actividad_2._1
             this.gridProfesores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.gridProfesores.Location = new System.Drawing.Point(193, 100);
             this.gridProfesores.Name = "gridProfesores";
+            this.gridProfesores.ReadOnly = true;
             this.gridProfesores.Size = new System.Drawing.Size(240, 150);
             this.gridProfesores.TabIndex = 2;
             // 
